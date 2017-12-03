@@ -17,6 +17,7 @@ body {
 .brand {
   color: #125688;
   font-size: 30px;
+  font-family: 'Pacifico', cursive;
 }
 
 .top-nav .add a {
@@ -83,10 +84,11 @@ input {
   line-height: 44px;
 }
 
-.gram-actions a {
+.gram-actions {
   font-weight: bold;
   font-size: 16px;
   margin-right: 20px;
+  margin-left: auto;
 }
 
 .comments {
